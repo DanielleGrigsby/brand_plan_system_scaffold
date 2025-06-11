@@ -1,13 +1,20 @@
 # 🧱 Brand Plan and System Scaffold
 
-> “A structured system for organizing brand strategy, visual assets, and design implementation.”
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
----
+> A structured system for organizing brand strategy, visual assets, and design implementation.  
+> Built to scale with clarity across teams, tools, and touchpoints.
 
-## 🔗 Notion Brand Plan Template
+📌 **Live Notion Template:**  
+[Brand Plan Template on Notion](https://creativeprojects.notion.site/Brand-Plan-Template-20dd36b0a4848027bc6eefd685f8dcbd)
 
-Use the Notion template here:  
-👉 [Brand Plan Template – Notion](https://creativeprojects.notion.site/Brand-Plan-Template-20dd36b0a4848027bc6eefd685f8dcbd)
+This Notion workspace includes:
+- ✅ Brand Color Matrix  
+- ✅ Logotype Combination Matrix  
+- ✅ Design Elements Matrix  
+- ✅ Typography Matrix
+
+_The Brand Plan + System Scaffold is an evolving, living framework._
 
 **Note:**  
 The brand matrices (Logotypes, Color, Typography, Design Elements) are already installed and configured in the Notion template.  
