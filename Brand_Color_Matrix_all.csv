@@ -1,0 +1,61 @@
+﻿Name,Color Type,Color Codes,Usage Role,Distribution,Color Semantics,Preview,Application Notes
+Color 60,Primary Colors,"#E000000 / rgb(100,50,200) / hsl(0, 60%, 50%)",Background,Dominant,Symbolism for Color 1,,Use case description for Color 1
+Color 59,Secondary Colors,"#E010101 / rgb(101,51,199) / hsl(6, 60%, 50%)",Button,Accent,Symbolism for Color 2,,Use case description for Color 2
+Color 58,Tertiary Colors,"#E020202 / rgb(102,52,198) / hsl(12, 60%, 50%)",Text,Utility,Symbolism for Color 3,,Use case description for Color 3
+Color 57,Neutral Colors,"#E030303 / rgb(103,53,197) / hsl(18, 60%, 50%)",Border,Rare,Symbolism for Color 4,,Use case description for Color 4
+Color 55,Core Colors,"#E050505 / rgb(105,55,195) / hsl(30, 60%, 50%)",CTA,Dominant,Symbolism for Color 6,,Use case description for Color 6
+Color 56,Accent Colors,"#E040404 / rgb(104,54,196) / hsl(24, 60%, 50%)",UI,Accent,Symbolism for Color 5,,Use case description for Color 5
+Color 53,Neutral Secondary,"#E070707 / rgb(107,57,193) / hsl(42, 60%, 50%)",Button,Accent,Symbolism for Color 8,,Use case description for Color 8
+Color 54,Neutral Primary,"#E060606 / rgb(106,56,194) / hsl(36, 60%, 50%)",Background,Dominant,Symbolism for Color 7,,Use case description for Color 7
+Color 52,Accent Primary,"#E080808 / rgb(108,58,192) / hsl(48, 60%, 50%)",Text,Utility,Symbolism for Color 9,,Use case description for Color 9
+Color 50,Accent Tertiary,"#E000A0A / rgb(110,60,190) / hsl(60, 60%, 50%)",UI,Accent,Symbolism for Color 11,,Use case description for Color 11
+Color 51,Accent Secondary,"#E090909 / rgb(109,59,191) / hsl(54, 60%, 50%)",Border,Rare,Symbolism for Color 10,,Use case description for Color 10
+Color 48,Tints-Accent Secondary,"#E020C0C / rgb(112,62,188) / hsl(72, 60%, 50%)",Background,Dominant,Symbolism for Color 13,,Use case description for Color 13
+Color 49,Tints-Accent Primary,"#E010B0B / rgb(111,61,189) / hsl(66, 60%, 50%)",CTA,Dominant,Symbolism for Color 12,,Use case description for Color 12
+Color 47,Tints-Accent Tertiary,"#E030D0D / rgb(113,63,187) / hsl(78, 60%, 50%)",Button,Accent,Symbolism for Color 14,,Use case description for Color 14
+Color 46,Tints-Accent Quaternary,"#E040E0E / rgb(114,64,186) / hsl(84, 60%, 50%)",Text,Utility,Symbolism for Color 15,,Use case description for Color 15
+Color 44,Tints-Neutral Primary,"#E060110 / rgb(116,66,184) / hsl(96, 60%, 50%)",UI,Accent,Symbolism for Color 17,,Use case description for Color 17
+Color 45,Tints-Neutral Inverse,"#E05000F / rgb(115,65,185) / hsl(90, 60%, 50%)",Border,Rare,Symbolism for Color 16,,Use case description for Color 16
+Color 42,BG-Secondary,"#E080312 / rgb(118,68,182) / hsl(108, 60%, 50%)",Background,Dominant,Symbolism for Color 19,,Use case description for Color 19
+Color 43,BG-Primary,"#E070211 / rgb(117,67,183) / hsl(102, 60%, 50%)",CTA,Dominant,Symbolism for Color 18,,Use case description for Color 18
+Color 41,BG-Accent Primary,"#E090413 / rgb(119,69,181) / hsl(114, 60%, 50%)",Button,Accent,Symbolism for Color 20,,Use case description for Color 20
+Color 40,BG-Accent Secondary,"#E000500 / rgb(120,70,180) / hsl(120, 60%, 50%)",Text,Utility,Symbolism for Color 21,,Use case description for Color 21
+Color 38,BG-Inverse,"#E020702 / rgb(122,72,178) / hsl(132, 60%, 50%)",UI,Accent,Symbolism for Color 23,,Use case description for Color 23
+Color 39,BG-Accent Tertiary,"#E010601 / rgb(121,71,179) / hsl(126, 60%, 50%)",Border,Rare,Symbolism for Color 22,,Use case description for Color 22
+Color 37,Text Primary,"#E030803 / rgb(123,73,177) / hsl(138, 60%, 50%)",CTA,Dominant,Symbolism for Color 24,,Use case description for Color 24
+Color 36,Text Secondary,"#E040904 / rgb(124,74,176) / hsl(144, 60%, 50%)",Background,Dominant,Symbolism for Color 25,,Use case description for Color 25
+Color 35,Text Inverse Primary,"#E050A05 / rgb(125,75,175) / hsl(150, 60%, 50%)",Button,Accent,Symbolism for Color 26,,Use case description for Color 26
+Color 34,Text Inverse Secondary,"#E060B06 / rgb(126,76,174) / hsl(156, 60%, 50%)",Text,Utility,Symbolism for Color 27,,Use case description for Color 27
+Color 32,Text Accent Secondary,"#E080D08 / rgb(128,78,172) / hsl(168, 60%, 50%)",UI,Accent,Symbolism for Color 29,,Use case description for Color 29
+Color 33,Text Accent Primary,"#E070C07 / rgb(127,77,173) / hsl(162, 60%, 50%)",Border,Rare,Symbolism for Color 28,,Use case description for Color 28
+Color 30,Secondary Colors,"#E00000A / rgb(130,80,170) / hsl(180, 60%, 50%)",Background,Dominant,Symbolism for Color 31,,Use case description for Color 31
+Color 31,Primary Colors,"#E090E09 / rgb(129,79,171) / hsl(174, 60%, 50%)",CTA,Dominant,Symbolism for Color 30,,Use case description for Color 30
+Color 28,Neutral Colors,"#E02020C / rgb(132,82,168) / hsl(192, 60%, 50%)",Text,Utility,Symbolism for Color 33,,Use case description for Color 33
+Color 27,Accent Colors,"#E03030D / rgb(133,83,167) / hsl(198, 60%, 50%)",Border,Rare,Symbolism for Color 34,,Use case description for Color 34
+Color 29,Tertiary Colors,"#E01010B / rgb(131,81,169) / hsl(186, 60%, 50%)",Button,Accent,Symbolism for Color 32,,Use case description for Color 32
+Color 25,Neutral Primary,"#E05050F / rgb(135,85,165) / hsl(210, 60%, 50%)",CTA,Dominant,Symbolism for Color 36,,Use case description for Color 36
+Color 26,Core Colors,"#E04040E / rgb(134,84,166) / hsl(204, 60%, 50%)",UI,Accent,Symbolism for Color 35,,Use case description for Color 35
+Color 23,Accent Primary,"#E070711 / rgb(137,87,163) / hsl(222, 60%, 50%)",Button,Accent,Symbolism for Color 38,,Use case description for Color 38
+Color 24,Neutral Secondary,"#E060610 / rgb(136,86,164) / hsl(216, 60%, 50%)",Background,Dominant,Symbolism for Color 37,,Use case description for Color 37
+Color 21,Accent Tertiary,"#E090913 / rgb(139,89,161) / hsl(234, 60%, 50%)",Border,Rare,Symbolism for Color 40,,Use case description for Color 40
+Color 22,Accent Secondary,"#E080812 / rgb(138,88,162) / hsl(228, 60%, 50%)",Text,Utility,Symbolism for Color 39,,Use case description for Color 39
+Color 19,Tints-Accent Secondary,"#E010B01 / rgb(141,91,159) / hsl(246, 60%, 50%)",CTA,Dominant,Symbolism for Color 42,,Use case description for Color 42
+Color 20,Tints-Accent Primary,"#E000A00 / rgb(140,90,160) / hsl(240, 60%, 50%)",UI,Accent,Symbolism for Color 41,,Use case description for Color 41
+Color 18,Tints-Accent Tertiary,"#E020C02 / rgb(142,92,158) / hsl(252, 60%, 50%)",Background,Dominant,Symbolism for Color 43,,Use case description for Color 43
+Color 17,Tints-Accent Quaternary,"#E030D03 / rgb(143,93,157) / hsl(258, 60%, 50%)",Button,Accent,Symbolism for Color 44,,Use case description for Color 44
+Color 16,Tints-Neutral Inverse,"#E040E04 / rgb(144,94,156) / hsl(264, 60%, 50%)",Text,Utility,Symbolism for Color 45,,Use case description for Color 45
+Color 15,Tints-Neutral Primary,"#E050005 / rgb(145,95,155) / hsl(270, 60%, 50%)",Border,Rare,Symbolism for Color 46,,Use case description for Color 46
+Color 14,BG-Primary,"#E060106 / rgb(146,96,154) / hsl(276, 60%, 50%)",UI,Accent,Symbolism for Color 47,,Use case description for Color 47
+Color 12,BG-Accent Primary,"#E080308 / rgb(148,98,152) / hsl(288, 60%, 50%)",Background,Dominant,Symbolism for Color 49,,Use case description for Color 49
+Color 13,BG-Secondary,"#E070207 / rgb(147,97,153) / hsl(282, 60%, 50%)",CTA,Dominant,Symbolism for Color 48,,Use case description for Color 48
+Color 10,BG-Accent Tertiary,"#E00050A / rgb(150,100,150) / hsl(300, 60%, 50%)",Text,Utility,Symbolism for Color 51,,Use case description for Color 51
+Color 11,BG-Accent Secondary,"#E090409 / rgb(149,99,151) / hsl(294, 60%, 50%)",Button,Accent,Symbolism for Color 50,,Use case description for Color 50
+Color 9,BG-Inverse,"#E01060B / rgb(151,101,149) / hsl(306, 60%, 50%)",Border,Rare,Symbolism for Color 52,,Use case description for Color 52
+Color 8,Text Primary,"#E02070C / rgb(152,102,148) / hsl(312, 60%, 50%)",UI,Accent,Symbolism for Color 53,,Use case description for Color 53
+Color 6,Text Inverse Primary,"#E04090E / rgb(154,104,146) / hsl(324, 60%, 50%)",Background,Dominant,Symbolism for Color 55,,Use case description for Color 55
+Color 7,Text Secondary,"#E03080D / rgb(153,103,147) / hsl(318, 60%, 50%)",CTA,Dominant,Symbolism for Color 54,,Use case description for Color 54
+Color 4,Text Accent Primary,"#E060B10 / rgb(156,106,144) / hsl(336, 60%, 50%)",Text,Utility,Symbolism for Color 57,,Use case description for Color 57
+Color 5,Text Inverse Secondary,"#E050A0F / rgb(155,105,145) / hsl(330, 60%, 50%)",Button,Accent,Symbolism for Color 56,,Use case description for Color 56
+Color 3,Text Accent Secondary,"#E070C11 / rgb(157,107,143) / hsl(342, 60%, 50%)",Border,Rare,Symbolism for Color 58,,Use case description for Color 58
+Color 2,Primary Colors,"#E080D12 / rgb(158,108,142) / hsl(348, 60%, 50%)",UI,Accent,Symbolism for Color 59,,Use case description for Color 59
+Color 1,Secondary Colors,"#E090E13 / rgb(159,109,141) / hsl(354, 60%, 50%)",CTA,Dominant,Symbolism for Color 60,,Use case description for Color 60
