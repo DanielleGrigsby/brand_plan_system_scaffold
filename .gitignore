@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Node modules (if you ever use Node.js)
+node_modules/
+
+# Python cache
+__pycache__/
+
+# VSCode and JetBrains IDE settings
+.vscode/
+.idea/
