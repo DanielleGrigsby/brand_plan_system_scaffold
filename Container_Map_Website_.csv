@@ -1,0 +1,11 @@
+Asset Name,Channel,Aspect Ratio,Recommended Size,Format Needed,Primary Logo Type,Minimum Size,Usage Notes
+Website Header Logo,Website,4:1,400 × 100 px,"SVG, PNG",Full lockup,200 px width,For desktop nav; may swap for sub-brand on ministries
+Mobile Header Logo,Website,1:1,80 × 80 px,"SVG, PNG",Icon-only,40 px width,For mobile menu or app icon
+Favicon,Website,1:1,32 × 32 px,"ICO, PNG, SVG",Icon-only,16 px width,"Used in browser tab, bookmarks, PWA"
+Web App Icon,Website,1:1,512 × 512 px,PNG,Icon-only,256 px width,"Mobile install, home screen icon"
+Hero Image,Website,16:9,1920 × 1080 px,"JPG, PNG, WebP",N/A,960 px wide,Top of homepage or major landing pages
+Social Preview,Website,1.91:1,1200 × 630 px,"JPG, PNG",Full/Icon lockup,600 px wide,"For sharing on FB, X, LinkedIn (Open Graph)"
+Feature Image,Website,4:3,1200 × 900 px,"JPG, PNG",N/A,600 px wide,"Blog, news, or featured stories"
+Section Banner,Website,16:5,1600 × 500 px,"JPG, PNG",Full/Icon lockup,800 px wide,Section break/visual divider
+CTA Graphic,Website,4:1,800 × 200 px,"PNG, SVG",Full/Icon lockup,400 px wide,"Call-to-action, sign-up bars"
+Testimonial Photo,Website,1:1,400 × 400 px,"JPG, PNG",N/A,200 px wide,For testimonials or team bios

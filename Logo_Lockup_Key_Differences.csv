@@ -1,0 +1,10 @@
+Lockup Format,Typical Shape,Layout Logic / Structure,Common Usage Examples,Aspect Ratio,Example Sizing,SME Notes
+Horizontal,Wide rectangle,"Icon, wordmark, or both side-by-side","Website headers, business cards, signs",Wide (e.g. 4:1),1600×400 px,Most universal; your “main” or default logo
+Stacked,Square / upright,"Icon above wordmark, compact center alignment","Social avatars, stamps, merch",Near-square,800×1200 px (portrait),Alt for tight layouts; most “balanced” compact
+Vertical,"Tall, narrow rectangle",Elements stacked for height; text vertical or below,"Banners, tags, tall web signage",Extra tall (2:4+),800×1600 px,For narrow spaces; rare but crucial in some systems
+Centered,Perfect square,"Monogram, icon, or pictorial centered","App icons, stamps, overlays, favicons",1:1 (Square),800×800 px,"Used for digital avatars, app icons, etc."
+Icon-Only/Symbol,Square,"Just the icon or symbol, centered","Avatars, watermarks, web/app buttons",1:1 (Square),800×800 px,No text; must work at tiny sizes
+Monogram,Square,"Initial(s), stylized, centered","Details, small merch, internal",1:1 (Square),800×800 px,Especially important for luxury or fashion
+Emblem,Square,All elements in a “badge” or shield,"Patches, stickers, certificates",1:1 (Square),800×800 px,Communicates heritage or authority
+Mascot,Square,"Character/figure illustration, centered","Sports, youth, character-driven brands",1:1 (Square),800×800 px,Draws focus to illustration; memorable alternative
+Combination Mark,Wide or tall (flexible),"Icon and wordmark, either side-by-side or stacked","All major applications, flexible",4:1 or 2:3,"1600×400 (horiz), 800×1200 (stacked)",Combines strengths of both logotype and symbol

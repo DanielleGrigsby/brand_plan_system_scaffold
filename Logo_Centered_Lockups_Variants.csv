@@ -1,0 +1,8 @@
+Style Key,emblem,monogram,mascot,icon-only,pictorial-symbol
+centered / solid,emblem-centered-solid.svg,monogram-centered-solid.svg,mascot-centered-solid.svg,icon-only-centered-solid,pictorial-symbol-solid.svg
+centered / keyline,emblem-centered-keyline.svg,monogram-centered-keyline.svg,mascot-centered-keyline.svg,icon-only-centered-keyline,pictorial-symbol-keyline.svg
+centered / blackandwhite,emblem-centered-blackandwhite.svg,monogram-centered-blackandwhite.svg,mascot-centered-blackandwhite.svg,icon-only-centered-blackandwhite,
+centered / gradient,emblem-centered-gradient.svg,monogram-centered-gradient.svg,mascot-centered-gradient.svg,icon-only-centered-gradient,pictorial-symbol-gradient.svg
+centered / outline,emblem-centered-outline.svg,monogram-centered-outline.svg,mascot-centered-outline.svg,icon-only-centered-outline,pictorial-symbol-outline.svg
+centered / reversed,emblem-centered-reversed.svg,monogram-centered-reversed.svg,mascot-centered-reversed.svg,icon-only-centered-reversed,
+centered / transparent,emblem-centered-transparent.svg,monogram-centered-transparent.svg,mascot-centered-transparent.svg,icon-only-centered-transparent,

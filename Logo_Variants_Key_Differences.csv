@@ -1,0 +1,13 @@
+Variant,Definition,Best Use Cases,Notes
+Solid,"Flat, single-color logo (often brand’s main color)","Most applications; digital, print, embroidery",Most “default” form; highest contrast
+Blackandwhite,"Black on white (or vice versa); no color, no gradation","B&W print, newsprint, photocopies, faxes","Always legible, always “on brand”"
+Gradient,"Uses a color gradient fill, often brand’s accent","Modern web, digital, splashy/hero sections",Avoid for print/embroidery unless tested
+Keyline,Logo drawn as a single-line “outline” or wireframe,"Watermark, subtle branding, overlays",Not for low-contrast backgrounds
+Outline,"Logo as an outline, no fill","Subtle branding, apparel, deboss/emboss",Must remain legible at all sizes
+Reversed,Logo shown in white (or light) on dark background,"Over photos, dark backgrounds, social avatars","“Reverse out” for contrast, esp. on black/navy"
+Transparent,No background fill; logo sits over any background,"PNG/SVG exports, web, merchandise","Essential for stickers, overlays, app icons"
+Solid-Strapline,Solid logo with tagline/descriptor under main text,"Context-heavy settings, brand campaigns, signage",Use when you need to reinforce positioning
+Gradient-Strapline,Gradient version with strapline,"Modern campaigns, digital banners","More visual impact, but needs good contrast"
+Outline-Strapline,Outline with strapline,"Subtle, elegant branding, stationery, event livery",For understated applications
+Blackandwhite-Strapline,B&W with tagline,"Print, invoices, B&W stationery",Always legible
+Transparent-Strapline,Transparent logo with tagline,"Stickers, digital, overlays",Useful for dynamic brand layouts

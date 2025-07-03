@@ -1,0 +1,19 @@
+Asset Name,Channel,Aspect Ratio,Recommended Size,Format Needed,Primary Logo Type,Minimum Size,Usage Notes
+Business Card,Print,3.5:2,3.5 × 2 in,"PDF, PNG",Full lockup,0.5 in height,Main lockup front; sub-brand on back for ministry contacts.
+Letterhead,Print,8.5:11,8.5 × 11 in,"PDF (CMYK), DOCX",Full lockup,1 in width,"Logo top margin; watermark icon optional; 1"" margin sides."
+Envelope #10,Print,9.5:4.125,9.5 × 4.125 in,PDF (CMYK),Icon/full lockup,1 in width,Return address area; sub-brand icon optional.
+Tri-Fold Brochure,Print,8.5:11 (tri),8.5 × 11 in (trifold),PDF (CMYK),Full lockup,1 in width,"Bleed 0.125""; inside section headers can use sub-brand lockup."
+Flat Brochure,Print,8.5:11,8.5 × 11 in,PDF (CMYK),Full lockup,1 in width,"For event info, ministries overview, etc."
+3-Up Insert,Print,8.5:3.67,8.5 × 3.67 in,"PDF, PNG, DOCX",Full/Icon lockup,1 in width,"Slim vertical insert; fits one panel of a tri-fold brochure or folder; info slips, connect cards, etc."
+Connection Card,Print,7:3,7 × 3 in,"PDF, PNG, DOCX",Icon/full lockup,1 in width,For new guests; info fields; fits in bulletin or offering bag.
+Prayer Request Card,Print,7:3,7 × 3 in,"PDF, PNG, DOCX",Icon-only,1 in width,"Space for name, request, contact info; fits rack or bulletin."
+Welcome Slip,Print,7:3,7 × 3 in,"PDF, PNG, DOCX",Icon/full lockup,1 in width,"Short greeting + contact details; pews, info desk, visitor packets."
+Full-Page Flyer,Print,8.5:11,8.5 × 11 in,"PDF, JPG, PNG",Full lockup,3 in width,"For events, sermon series, or campaigns."
+2-Up Flyer,Print,8.5:11 (2x),8.5 × 11 in (2/page),"PDF, DOCX",Full/alt lockup,3 in width,Two flyers per sheet; larger handouts; cut guides included.
+Poster (Letter),Print,8.5:11,8.5 × 11 in,"PDF, JPG, PNG",Full lockup,3 in width,"For bulletin boards, community outreach."
+Poster (Tabloid),Print,11:17,11 × 17 in,"PDF (CMYK), JPG",Full lockup,4 in width,"High-visibility; entryways, events, info walls."
+Banner (Horizontal),Print,2:1–4:1,72 × 24 in (or as needed),"PDF, AI",Full lockup,12 in width,"Stage, outdoor, event display; high-res, CMYK."
+Banner (Vertical),Print,1:2,24 × 48 in (or as needed),"PDF, AI",Full lockup,12 in width,"Roll-up banners; lobby, entry; sub-brand optional."
+Folder,Print,9:12,9 × 12 in,PDF (CMYK),Full lockup,3 in width,"Presentation folder for welcome packets, info kits, etc."
+Program/Bulletin,Print,5.5:8.5,5.5 × 8.5 in (folded),"PDF (CMYK), DOCX",Full lockup,1 in width,"Service order, announcements; cover = main or series lockup."
+Name Badge,Print,3:2,3 × 2 in,"PDF, PNG",Icon-only,0.75 in width,Event/staff badges; symbol only for clarity at small scale.
